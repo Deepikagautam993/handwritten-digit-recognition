@@ -106,8 +106,6 @@ handwritten-digit-recognition/
 ├── requirements.txt
 ├── handwritten_digit_recognition.ipynb
 ├── images/
-├── models/
-└── docs/
 
 ---
 
